@@ -1,0 +1,4 @@
+.env
+*.notes
+*.log
+*.DS_Store
